@@ -1,2 +1,4 @@
 # global_jam_lost_and_found
-用来玩global_jam
+### 1. 代码结构
+### 2. 运行方式
+### 3. 代码拓展
